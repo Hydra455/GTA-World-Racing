@@ -26,4 +26,4 @@ De asemenea, aplicațiile pentru staff și testeri sunt deschise și așteptăm 
 R: Puteți vedea progresul nostru cu serverul pe serverul nostru de discord , încercăm să vă informăm de cel puțin câteva ori pe săptămână cât de departe am ajuns cu progresul serverului.
 
 Î: Vă întrebați de ce durează atât de mult până când serverul se deschide?
-R: Ei bine, din moment ce eu sunt singurul care lucrează la el, este de înțeles că acest proiect are nevoie de timp și de testare de către echipa noastră, astfel încât să nu existe probleme cu serverul atunci când îl lansăm public. Dar vă asigurăm că această așteptare nu va fi în zadar.
+R: Ei bine, din moment ce eu sunt singurul care lucrează la el, este de înțeles că acest proiect are nevoie de timp și de testare de către echipa noastră, astfel încât să nu existe probleme cu serverul atunci când îl lansăm public. Dar vă asigurăm că această așteptare nu va fi în zadar
